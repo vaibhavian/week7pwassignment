@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+.all-container {
+    position: absolute;
+    display: flex;
+
+}
+.container1 {
+    position: relative;
+    height: 100px;
+    width: 700px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.header {
+    font-weight: bold;
+    font-size: 50px;
+}
+.button {
+    background-color: black;
+    color: white;
+    width: 140px;
+    height: 30px;
+    margin-top: 20px;
+}
+.container2 {   
+}
+.image {
+    height: 600px;
+    width: auto;
+    padding-left: 50px;
+
+}
+.container3 {
+    height: 600px;
+    background: yellow;
+    padding-left: 220px;
+}
